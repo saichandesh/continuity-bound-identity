@@ -1,0 +1,3 @@
+cryptography>=42
+matplotlib>=3.8
+datasets>=2.19   # only for experiments/calibrate_ai_village.py
